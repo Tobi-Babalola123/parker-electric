@@ -33,7 +33,7 @@ const stackSansNotch = localFont({
 
 export const metadata: Metadata = {
   title:
-    "Greenbolt Electric | Electrician & Electrical Services in Spicewood, TX",
+    "Parker Electric | Electrician & Electrical Services in Gainesville, TX",
 
   icons: {
     icon: "/images/logo.png",
@@ -42,67 +42,63 @@ export const metadata: Metadata = {
   },
 
   description:
-    "Greenbolt Electric is a family-owned electrical service company providing reliable electrical repairs, panel upgrades, lighting, remodeling and specialty electrical services throughout Spicewood and the Highland Lakes area of Texas.",
+    "Parker Electric has been serving Gainesville and surrounding North Texas communities since 1942. We provide dependable residential and commercial electrical repairs, upgrades, new installations, and professional electrical solutions built to last.",
 
   keywords: [
-    "Greenbolt Electric",
-    "Greenbolt Electric Spicewood",
-    "Greenbolt Electric Texas",
-    "electrician Spicewood TX",
-    "electrician Spicewood Texas",
-    "electrical contractor Spicewood TX",
-    "electrical services Spicewood TX",
-    "electrician Highland Lakes TX",
-    "electrical contractor Highland Lakes",
-    "electrical services Highland Lakes",
-    "electrician Lakeway TX",
-    "electrician Marble Falls TX",
-    "electrician Horseshoe Bay TX",
-    "electrician Lake Travis TX",
-    "residential electrician Texas",
-    "residential electrical services",
-    "electrical repairs Texas",
-    "electrical repair Spicewood TX",
-    "panel upgrades Texas",
-    "electrical panel upgrade Spicewood",
-    "lighting installation Texas",
-    "lighting and fixtures Spicewood",
-    "home electrical contractor Texas",
-    "home electrical repairs",
-    "remodeling electrical services",
-    "electrical work for remodeling",
-    "outdoor electrical services",
-    "specialty electrical services",
-    "local electrician Texas",
-    "family owned electrician Texas",
-    "licensed electrician Spicewood",
-    "electrical contractor Highland Lakes TX",
-    "electrician near Spicewood TX",
+    "Parker Electric",
+    "Parker Electric Gainesville TX",
+    "Parker Electric Texas",
+    "electrician Gainesville TX",
+    "electrician Gainesville Texas",
+    "electrical contractor Gainesville TX",
+    "electrical services Gainesville TX",
+    "electricians North Texas",
+    "electrical contractor North Texas",
+    "residential electrician Gainesville TX",
+    "commercial electrician Gainesville TX",
+    "residential electrical services Texas",
+    "commercial electrical services Texas",
+    "electrical repairs Gainesville TX",
+    "electrical repair North Texas",
+    "electrical upgrades Gainesville TX",
+    "electrical installation Gainesville TX",
+    "new electrical installations Texas",
+    "home electrical contractor Gainesville",
+    "commercial electrical contractor Texas",
+    "local electrician Gainesville TX",
+    "experienced electrician North Texas",
+    "reliable electrical contractor Texas",
+    "professional electrical services",
+    "quality electrical workmanship",
+    "electrical contractor since 1942",
+    "Parker Electric since 1942",
+    "electrician near Gainesville TX",
+    "electrical services Cooke County TX",
   ],
 
   authors: [
     {
-      name: "Greenbolt Electric",
+      name: "Parker Electric",
     },
   ],
 
-  creator: "Greenbolt Electric",
-  publisher: "Greenbolt Electric",
-  applicationName: "Greenbolt Electric",
+  creator: "Parker Electric",
+  publisher: "Parker Electric",
+  applicationName: "Parker Electric",
 
   category: "Electrical Services",
 
-  metadataBase: new URL("https://greenboltelectric.com"),
+  metadataBase: new URL("https://parkerelectrictx.com"),
 
   openGraph: {
-    title: "Greenbolt Electric | Reliable Electrical Services in Spicewood, TX",
+    title: "Parker Electric | Trusted Electrical Services Since 1942",
 
     description:
-      "Family-owned electrical service for homes, properties and specialty projects throughout Spicewood and the Highland Lakes area of Texas.",
+      "Serving Gainesville and surrounding North Texas communities since 1942. Parker Electric delivers dependable residential and commercial electrical repairs, upgrades, and installations with quality workmanship built to last.",
 
-    url: "https://greenboltelectric.com",
+    url: "https://parkerelectrictx.com",
 
-    siteName: "Greenbolt Electric",
+    siteName: "Parker Electric",
 
     locale: "en_US",
 
@@ -113,10 +109,10 @@ export const metadata: Metadata = {
     card: "summary_large_image",
 
     title:
-      "Greenbolt Electric | Electrician & Electrical Services in Spicewood, TX",
+      "Parker Electric | Electrician & Electrical Services in Gainesville, TX",
 
     description:
-      "Family-owned electrical service providing repairs, panel upgrades, lighting, remodeling and specialty electrical services throughout the Highland Lakes area.",
+      "Parker Electric has served Gainesville and North Texas since 1942, providing dependable electrical repairs, upgrades, and installations for homes and businesses.",
   },
 
   robots: {
@@ -124,6 +120,7 @@ export const metadata: Metadata = {
     follow: true,
   },
 };
+
 export const viewport: Viewport = {
   themeColor: "#0F2744",
   colorScheme: "light",
